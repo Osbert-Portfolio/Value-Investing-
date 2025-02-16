@@ -1,6 +1,6 @@
-Portfolio Strategy for Value Investing
+📌 Portfolio Strategy for Value Investing
 
-📌 Overview
+# Overview
 
 This repository provides an Excel-based Intrinsic Value Calculator designed for value investors to evaluate stocks using fundamental valuation models. The spreadsheet includes:
 
@@ -12,7 +12,7 @@ This repository provides an Excel-based Intrinsic Value Calculator designed for 
 
 By using these models, investors can make data-driven decisions and build a well-diversified, low-risk portfolio based on fundamental analysis.
 
-🚀 Features
+# 🚀 Features
 
 🔹 Comprehensive Stock Valuation: Easily calculate intrinsic value for any stock.
 
@@ -22,7 +22,7 @@ By using these models, investors can make data-driven decisions and build a well
 
 🔹 Portfolio Strategy Guide: Follow a structured, disciplined investment approach based on value investing principles.
 
-📜 Portfolio Strategy
+# 📜 Portfolio Strategy
 
 Building a Value-Investing Portfolio
 
@@ -41,36 +41,8 @@ Building a Value-Investing Portfolio
 ✅ Always Hold at Least 10% Cash – Keep funds available for opportunities.
 ✅ Avoid Cyclical Stocks – Focus on smaller, inefficiently priced markets.
 
-🧠 Psychological Aspects of Investing
+# 🧠 Psychological Aspects of Investing
 
 💡 Be Contrarian – Go against the crowd when needed.
 💡 Be Fearful When Others Are Greedy, and Greedy When Others Are Fearful (Buffett’s Rule).
 💡 Avoid Emotional Investing – Stick to fundamentals and valuation.
-
-📥 How to Use the Excel Model
-
-Download the spreadsheet from this repository.
-
-Input financial data (EPS, cash flows, discount rate, etc.).
-
-Choose a valuation model (Graham, Owner’s Earnings, or DCF).
-
-Compare intrinsic value to market price.
-
-Make investment decisions based on value principles.
-
-📌 Pro Tip: Always validate your inputs and assumptions before making investment decisions.
-
-🎯 Why This Model is Valuable for Recruiters & Investors
-
-📈 Demonstrates financial modeling skills – Ideal for finance and investment roles.
-📊 Practical Application of Value Investing – Aligns with Buffett and Graham principles.
-💡 Automates Stock Analysis – Saves time and improves investment decisions.
-💼 Showcases Data-Driven Decision-Making – Essential for finance professionals.
-
-🔗 Explore the Spreadsheet (Insert link here)
-
-🤝 Contributing & Feedback
-
-We welcome feedback and contributions! Feel free to suggest improvements or add new valuation
-
