@@ -1,7 +1,7 @@
-Portfolio strategy for value investors:
+# Portfolio strategy for value investing
 
-●	15-20 stocks
-●	Different countries
+## 15-20 stocks
+## Different countries
 ●	Different industries
 ●	Non-correlated stocks
 ●	Estimate intrinsic value for each stock
