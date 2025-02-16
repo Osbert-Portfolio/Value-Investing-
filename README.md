@@ -1,4 +1,4 @@
-# 📌 Portfolio Strategy for Value Investing
+# Portfolio Strategy for Value Investing
 
 ## Overview
 
