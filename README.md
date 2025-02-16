@@ -1,6 +1,6 @@
-📌 Portfolio Strategy for Value Investing
+# 📌 Portfolio Strategy for Value Investing
 
-# Overview
+## Overview
 
 This repository provides an Excel-based Intrinsic Value Calculator designed for value investors to evaluate stocks using fundamental valuation models. The spreadsheet includes:
 
@@ -12,7 +12,7 @@ This repository provides an Excel-based Intrinsic Value Calculator designed for 
 
 By using these models, investors can make data-driven decisions and build a well-diversified, low-risk portfolio based on fundamental analysis.
 
-# 🚀 Features
+## 🚀 Features
 
 🔹 Comprehensive Stock Valuation: Easily calculate intrinsic value for any stock.
 
@@ -22,7 +22,7 @@ By using these models, investors can make data-driven decisions and build a well
 
 🔹 Portfolio Strategy Guide: Follow a structured, disciplined investment approach based on value investing principles.
 
-# 📜 Portfolio Strategy
+## 📜 Portfolio Strategy
 
 Building a Value-Investing Portfolio
 
@@ -41,7 +41,7 @@ Building a Value-Investing Portfolio
 ✅ Always Hold at Least 10% Cash – Keep funds available for opportunities.
 ✅ Avoid Cyclical Stocks – Focus on smaller, inefficiently priced markets.
 
-# 🧠 Psychological Aspects of Investing
+## 🧠 Psychological Aspects of Investing
 
 💡 Be Contrarian – Go against the crowd when needed.
 💡 Be Fearful When Others Are Greedy, and Greedy When Others Are Fearful (Buffett’s Rule).
